@@ -1,5 +1,3 @@
-package.path = ";C:\\Users\\Alexis\\Downloads\\ZeroBraneStudio\\myprograms\\Brain\\?.lua"..package.path
-
 local Brain = require "brain"
 
 -- Create the network with a hidden layer with 3 neurons and an output layer with 1 neuron 
